@@ -1,0 +1,19 @@
+{
+  "name": "ty-tailwind",
+  "version": "1.0.0",
+  "private": false,
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "keywords": [
+    "next.js",
+    "nextjs",
+    "tailwind",
+    "tailwindcss",
+    "typescript",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Victor Cassiano <jose_victor@live.com>"
+}
